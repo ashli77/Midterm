@@ -82,6 +82,7 @@ class Program
         bool exit = false;
         while (!exit)
         {
+            //Choices that we can choose
             Console.WriteLine("||||||||||||||||||||||||");
             Console.WriteLine("Main Menu");
             Console.WriteLine("1. View details of all items");
